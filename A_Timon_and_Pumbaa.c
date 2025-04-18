@@ -9,6 +9,6 @@ int main()
     {
         result = 0;
     }
-    // printf("%lld ",result);
+    printf("%lld ", result);
     return 0;
 }
